@@ -18,7 +18,7 @@ Allez tout en haut du fichier `index.js` et modifiez toutes les informations de 
 
 ## Lancement du bot
 
-Windows, Linux, Mac ou autres : ```npm start```
+Windows, Linux, Mac ou autres : ```npm start``` </br>
 Windows uniquement : ```ouvrez le fichier start.bat```
 
 ## Utilisation
