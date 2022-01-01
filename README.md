@@ -8,7 +8,11 @@ La meilleure alternative aux Crow Bots.
 
 ------
 
-### Confuguration
+### Configuration du bot
+
+Allez tout en haut du fichier `index.js` et modifiez toutes les informations de votre bot dans la section `Aoi.js`. Pour récupérer votre token de bot, rendez vous sur https://discord.dev/
+
+### Setup
 
 ```npm i aoi.js@4.5.0``` // ```npm i```
 
@@ -23,5 +27,5 @@ Nous ne pourrons pas verifier, mais nous vous demandons de ne pas voler de créd
 ## Support
 Si vous cherchez de l'aide avec la configuration du bot, veuillez rejoindre notre [serveur Discord.](https://discord.gg/KWUN39nJjS)
 
-**UtilityZ, fait avec 💖 par Triskaaa#9999**# UtilityZ
+**UtilityZ, fait avec 💖 par Triskaaa#9999**
 # UtilityZ
