@@ -14,7 +14,8 @@ Allez tout en haut du fichier `index.js` et modifiez toutes les informations de 
 
 ## Setup
 
-```npm i aoi.js@4.5.0``` // ```npm i```
+Windows, Linux, Mac ou autres : ```npm i aoi.js@4.5.0``` // ```npm i``` </br>
+Windows uniquement : ```ouvrez le fichier start.bat```
 
 ## Lancement du bot
 
