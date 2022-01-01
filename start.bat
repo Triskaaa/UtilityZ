@@ -7,7 +7,6 @@ echo ---
 echo Pret à lancer le bot ?
 pause
 npm i aoi.js@4.5.0
-cls
 node index.js
 title UtilityZ
 pause
